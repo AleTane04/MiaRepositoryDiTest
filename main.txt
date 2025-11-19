@@ -7,6 +7,8 @@ int main()
 	printf("Terzo commit!\n");
 	printf("In teoria sono sul branch maingay!\n");
 	printf("Seconda modifica nel mio branch maingay\n");
+	printf("commit sul master - 1");
+
 
     	return 0;
 }
