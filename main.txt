@@ -5,8 +5,8 @@ int main()
     	printf("Hello World\n");
 	printf("Zio perw!\n");
 	printf("Terzo commit!\n");
-	
-
+	printf("In teoria sono sul branch maingay!\n");
+	printf("Seconda modifica nel mio branch maingay\n");
 
     	return 0;
 }
